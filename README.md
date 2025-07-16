@@ -1,4 +1,4 @@
-# 🍽️ El Criollo Restaurant Database
+#  El Criollo Restaurant Database
 
 **Complete SQL Server database schema for El Criollo Restaurant Management System**
 
